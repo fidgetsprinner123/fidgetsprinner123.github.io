@@ -18,6 +18,6 @@ p {
     width: 60%; /* Sette bredde på boksen */                 
     margin: 50px auto;/* Avstand til andre elimenter utenfor boksen */          
     padding: 40px;/* Avstand fra element inni en bokst til kanten av boksen */	             
-    background-color: white; /* Det er bakrunns farge på nettsiden din */
-    border: 50px double #db148c; /* Størrelsen på rammen, type ramme og fargen på rammen */
+    background-color: rgb(235, 133, 201); /* Det er bakrunns farge på nettsiden din */
+    border: 50px dotted #ffffff; /* Størrelsen på rammen, type ramme og fargen på rammen */
   }
